@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name auto-fish-feeder-rescue)(type Legacy)(uri ${KIPRJMOD}/auto-fish-feeder-rescue.lib)(options "")(descr ""))
+)
